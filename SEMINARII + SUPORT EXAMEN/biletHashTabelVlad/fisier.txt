@@ -1,0 +1,6 @@
+5
+1 Erasmus Vlad 10 2000
+2 SiSC Bogdan 12 5623.4
+3 ProEdus Bianca 8 99.45
+4 Arcca Silviu 9 15282.12
+5 WorkAndTravel Fabiola 11 782423.69

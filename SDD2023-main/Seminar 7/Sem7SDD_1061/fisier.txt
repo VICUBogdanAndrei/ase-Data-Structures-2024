@@ -1,0 +1,7 @@
+6
+12 absolvire 100
+11 angajare 50
+11 familie 101
+7 bicicleta 2
+5 masina 20
+9 casa 80

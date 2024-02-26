@@ -1,0 +1,4 @@
+﻿  quadratic_probing.c
+C:\Users\Administrator\source\repos\SDD2023\Curs 4\Curs_4\quadratic_probing.c(150,34): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2023\Curs 4\Curs_4\quadratic_probing.c(151,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Curs_4.vcxproj -> C:\Users\Administrator\source\repos\SDD2023\Curs 4\Curs_4\x64\Debug\Curs_4.exe

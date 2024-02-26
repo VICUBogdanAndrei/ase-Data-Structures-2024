@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Administrator\source\repos\SDD2022\Curs_12\Grafuri\Source.c(10,21): warning C4091: 'typedef ': ignored on left of 'nodLP' when no variable is declared
+C:\Users\Administrator\source\repos\SDD2022\Curs_12\Grafuri\Source.c(29,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2022\Curs_12\Grafuri\Source.c(30,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Project5.vcxproj -> C:\Users\Administrator\source\repos\SDD2022\Curs_12\Grafuri\x64\Debug\Project5.exe

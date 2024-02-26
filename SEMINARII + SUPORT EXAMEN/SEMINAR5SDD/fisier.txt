@@ -1,0 +1,6 @@
+5
+1 Luceafarul 19.90
+2 Baltagul 29.50
+3 Moara_cu_noroc 12.10
+4 Marele_Gatsby 50.99
+5 Hotul_de_carti 59.99

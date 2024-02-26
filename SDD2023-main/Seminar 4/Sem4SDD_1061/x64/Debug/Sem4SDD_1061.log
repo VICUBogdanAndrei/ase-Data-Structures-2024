@@ -1,0 +1,11 @@
+﻿  stiva.c
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(37,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(39,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(45,19): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(64,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(89,23): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(105,24): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(126,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(139,20): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\stiva.c(115): warning C4715: 'get': not all control paths return a value
+  Sem4SDD_1061.vcxproj -> C:\Users\J1\Desktop\SDD2023-main\Seminar 4\Sem4SDD_1061\x64\Debug\Sem4SDD_1061.exe

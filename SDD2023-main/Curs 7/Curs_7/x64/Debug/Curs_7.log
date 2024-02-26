@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Administrator\source\repos\SDD2023\Curs 7\Curs_7\Source.cpp(9,2): warning C4091: 'typedef ': ignored on left of 'apelUrgenta' when no variable is declared
+C:\Users\Administrator\source\repos\SDD2023\Curs 7\Curs_7\Source.cpp(15,2): warning C4091: 'typedef ': ignored on left of 'heap' when no variable is declared
+C:\Users\Administrator\source\repos\SDD2023\Curs 7\Curs_7\Source.cpp(92,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Curs_7.vcxproj -> C:\Users\Administrator\source\repos\SDD2023\Curs 7\Curs_7\x64\Debug\Curs_7.exe

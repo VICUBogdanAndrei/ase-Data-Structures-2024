@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR1SDD\Source.c(23,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR1SDD\Source.c(24,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR1SDD\Source.c(92,69): warning C4047: '=': 'char *' differs in levels of indirection from 'char **'
+  SEMINAR1SDD.vcxproj -> C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR1SDD\x64\Debug\SEMINAR1SDD.exe

@@ -1,0 +1,9 @@
+﻿  Source1.c
+C:\Users\J1\Desktop\sdd_sem12\Source1.c(14,21): warning C4091: 'typedef ': ignored on left of 'nodLP' when no variable is declared
+C:\Users\J1\Desktop\sdd_sem12\Source1.c(36,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\sdd_sem12\Source1.c(37,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\sdd_sem12\Source1.c(214,23): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\Desktop\sdd_sem12\Source1.c(226,24): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\Desktop\sdd_sem12\Source1.c(315,13): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\J1\Desktop\sdd_sem12\Source1.c(235): warning C4715: 'get': not all control paths return a value
+  sdd_sem12.vcxproj -> C:\Users\J1\Desktop\sdd_sem12\x64\Debug\sdd_sem12.exe

@@ -1,0 +1,29 @@
+﻿  vocuher.c
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(27,50): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(28,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(38,18): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(39,18): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(45,27): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(46,21): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(47,19): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(48,19): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(50,23): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(51,23): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(59,26): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(63,20): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(72,28): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(76,20): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(97,21): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(101,11): warning C4778: 'printf' : unterminated format string '%5.2'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(101,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(101,77): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(112,27): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(116,15): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(124,21): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(143,27): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(147,21): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(160,25): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(172,21): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(204,27): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\vocuher.c(206,1): warning C4133: 'initializing': incompatible types - from 'nodld *' to 'nodld *'
+  BILET2SDD.vcxproj -> C:\Users\J1\Desktop\SDD SEMINARII\BILET2SDD\x64\Debug\BILET2SDD.exe

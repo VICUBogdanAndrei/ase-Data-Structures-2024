@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\2023\Project5\Source.c(10,21): warning C4091: 'typedef ': ignored on left of 'nodLP' when no variable is declared
+C:\Users\Administrator\Desktop\SDD 2022\2023\Project5\Source.c(29,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2023\Project5\Source.c(30,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Project5.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\2023\Project5\Debug\Project5.exe

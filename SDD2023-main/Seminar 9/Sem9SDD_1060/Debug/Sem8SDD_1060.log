@@ -1,0 +1,24 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(21,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(22,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(24,16): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(25,17): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(35,37): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(35,41): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(41,40): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(41,44): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(57,22): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(58,23): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(66,21): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(69,22): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(77,23): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(78,24): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(98,23): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(99,24): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(110,33): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(111,34): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(124,26): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(125,27): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(137,29): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Source.c(139,30): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+  Sem8SDD_1060.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\2023\Sem8SDD_1060\Debug\Sem8SDD_1060.exe

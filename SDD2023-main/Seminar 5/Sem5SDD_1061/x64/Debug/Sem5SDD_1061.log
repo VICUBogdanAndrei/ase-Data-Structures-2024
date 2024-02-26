@@ -1,0 +1,19 @@
+﻿  tabela_chaining.c
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(42,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(43,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(50,30): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(55,22): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(56,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(53,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(70,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(82,32): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(92,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(106,32): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(118,63): warning C4133: '=': incompatible types - from 'nodLS **' to 'nodLS **'
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(123,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(124,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(127,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(128,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(131,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(132,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\J1\Desktop\SDD2023-main\Seminar 5\Sem5SDD_1061\tabela_chaining.c(133,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

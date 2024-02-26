@@ -1,0 +1,20 @@
+﻿  Source.c
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(27,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(28,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(37,18): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(38,18): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(44,27): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(45,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(46,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(47,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(49,23): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(50,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(59,26): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(64,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(74,28): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(78,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(87,26): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(101,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(118,26): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\Source.c(120,1): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+  SEMINAR3SDD.vcxproj -> C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR3SDD\x64\Debug\SEMINAR3SDD.exe

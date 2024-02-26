@@ -1,0 +1,23 @@
+﻿  Source.c
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(45,18): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(46,18): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(52,27): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(53,21): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(54,19): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(55,19): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(57,23): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(58,21): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(66,26): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(70,20): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(79,28): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(83,20): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(93,26): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(96,20): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(107,26): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(113,20): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(210,11): warning C4101: 'temp': unreferenced local variable
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(290,26): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(294,20): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(301,26): warning C4133: '!=': incompatible types - from 'nodld *' to 'nodld *'
+C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\Source.c(305,20): warning C4133: '=': incompatible types - from 'nodld *' to 'nodld *'
+  biletSERIA_D.vcxproj -> C:\Users\J1\Desktop\SDD SEMINARII\biletSERIA_D\x64\Debug\biletSERIA_D.exe

@@ -1,0 +1,16 @@
+﻿  Source1.c
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(30,42): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(31,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(49,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(50,19): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(57,18): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(65,21): warning C4133: '=': incompatible types - from 'nodlp *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(66,19): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodlp *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(76,22): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(86,26): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(87,22): warning C4133: '=': incompatible types - from 'nodlp *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(96,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(110,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(109,1): warning C4133: 'initializing': incompatible types - from 'nodlp *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD_SEM5\Source1.c(137,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+  SDD_SEM5.vcxproj -> C:\Users\J1\Desktop\SDD_SEM5\x64\Debug\SDD_SEM5.exe

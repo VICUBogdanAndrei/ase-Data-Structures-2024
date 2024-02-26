@@ -1,0 +1,9 @@
+8
+31 paine 9.7 2 NONBIO
+92 cereale 10.3 3 BIO
+61 oua 14.9 6 BIO
+93 lapte 13.9 2 BIO
+400 cafea 23.5 3 NONBIO
+500 apa 3.5 6 NONBIO
+35 iaurt 4.5 2 NONBIO
+59 pufuleti 2.1 5 NONBIO

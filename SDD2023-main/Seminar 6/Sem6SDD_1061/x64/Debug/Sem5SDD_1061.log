@@ -1,0 +1,6 @@
+﻿  linear_probing2.c
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1061\linear_probing2.c(124,38): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1061\linear_probing2.c(125,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1061\linear_probing2.c(131,25): warning C4047: 'function': 'hashT *' differs in levels of indirection from 'hashT **'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1061\linear_probing2.c(131,18): warning C4024: 'inserareTabela': different types for formal and actual parameter 1
+  Sem5SDD_1061.vcxproj -> C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1061\x64\Debug\Sem5SDD_1061.exe

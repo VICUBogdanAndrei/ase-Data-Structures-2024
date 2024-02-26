@@ -1,0 +1,6 @@
+5
+Dorel 1053 9
+Gigel 1052 10
+Maricica 1053 4.5
+Andrei 1053 2.7
+Vasile 1057 7

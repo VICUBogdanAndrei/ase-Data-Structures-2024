@@ -1,0 +1,7 @@
+6
+70 SDD 5
+50 PAW 4
+60 Micro 3
+80 Macro 3
+20 SGBD 4
+40 Java 5

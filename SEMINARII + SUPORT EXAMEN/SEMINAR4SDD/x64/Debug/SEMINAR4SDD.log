@@ -1,0 +1,17 @@
+﻿  chaining.c
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(40,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(41,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(45,30): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(49,22): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(50,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(47,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(62,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(75,35): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(86,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(100,35): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(144,24): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(119,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(142,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(148,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\chaining.c(175,61): warning C4133: '=': incompatible types - from 'nodLS **' to 'nodLS **'
+  SEMINAR4SDD.vcxproj -> C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR4SDD\x64\Debug\SEMINAR4SDD.exe

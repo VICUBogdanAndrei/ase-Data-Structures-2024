@@ -1,0 +1,14 @@
+﻿  coada.c
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(29,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(30,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(40,21): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(41,19): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(53,20): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(63,1): warning C4133: 'initializing': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(86,23): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(101,26): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(119,20): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(139,18): warning C4047: 'function': 'nodLista *' differs in levels of indirection from 'nodLista **'
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(139,15): warning C4024: 'inserareNod': different types for formal and actual parameter 1
+C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\coada.c(111): warning C4715: 'get': not all control paths return a value
+  SEMINAR5SDD.vcxproj -> C:\Users\J1\Desktop\SDD SEMINARII\SEMINAR5SDD\x64\Debug\SEMINAR5SDD.exe

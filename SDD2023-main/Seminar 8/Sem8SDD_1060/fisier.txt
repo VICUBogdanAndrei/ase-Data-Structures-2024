@@ -1,0 +1,7 @@
+6
+30 paine 9.99
+20 lapte 8.99
+15 cascaval 14.99
+35 cafea 23.99
+25 apa 6.99
+40 suc 5.99

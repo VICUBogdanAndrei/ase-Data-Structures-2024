@@ -1,0 +1,8 @@
+﻿  Source2.c
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR2\Source2.c(50,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR2\Source2.c(51,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR2\Source2.c(62,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR2\Source2.c(63,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR2\Source2.c(74,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR2\Source2.c(83,1): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+  SEMINAR2.vcxproj -> C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR2\x64\Debug\SEMINAR2.exe

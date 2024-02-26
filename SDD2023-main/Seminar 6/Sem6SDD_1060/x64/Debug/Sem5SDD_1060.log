@@ -1,0 +1,15 @@
+﻿  lista_liste_matrice2.c
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(31,23): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(32,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(40,18): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(48,21): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(49,19): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(61,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(72,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(73,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(67,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLP *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(83,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(95,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(94,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\lista_liste_matrice2.c(121,20): warning C4133: 'function': incompatible types - from 'nodLP *' to 'nodLS *'
+  Sem5SDD_1060.vcxproj -> C:\Users\Administrator\source\repos\SDD2023\Seminar 6\Sem6SDD_1060\x64\Debug\Sem5SDD_1060.exe

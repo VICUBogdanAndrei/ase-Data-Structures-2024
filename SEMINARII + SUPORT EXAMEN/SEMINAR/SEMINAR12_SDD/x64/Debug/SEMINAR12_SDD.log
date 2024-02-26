@@ -1,0 +1,27 @@
+﻿  Source.c
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(11,21): warning C4091: 'typedef ': ignored on left of 'nodLP' when no variable is declared
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(31,44): warning C4013: 'strldn' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(32,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(41,21): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(42,19): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(50,18): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(59,19): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(68,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(80,50): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(80,60): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(81,48): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(81,59): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(93,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(91,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(103,28): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(104,18): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(113,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(126,29): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(124,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(149,19): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(161,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(193,22): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(184,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(187,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(211,38): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD\SEMINAR\SEMINAR12_SDD\Source.c(221): error C4700: uninitialized local variable 'idNodStart' used

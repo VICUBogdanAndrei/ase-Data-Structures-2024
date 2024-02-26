@@ -1,0 +1,6 @@
+5
+100 paine 9.7 2 NONBIO
+200 oua 14.9 6 BIO
+300 lapte 13.9 2 BIO
+400 cafea 23.5 2 NONBIO
+500 apa 3.5 6 NONBIO

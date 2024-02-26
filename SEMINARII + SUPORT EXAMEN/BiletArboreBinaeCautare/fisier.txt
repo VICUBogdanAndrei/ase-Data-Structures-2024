@@ -1,0 +1,5 @@
+4
+1 Intercontinental 50 Vicu 30000
+2 Capsa 10 Vasile 20000
+3 Central 30 Ionescu 10000
+4 Ceahlaul 20 Popescu 5000

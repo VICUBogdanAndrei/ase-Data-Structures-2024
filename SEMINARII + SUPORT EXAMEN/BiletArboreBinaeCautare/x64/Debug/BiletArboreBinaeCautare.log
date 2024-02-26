@@ -1,0 +1,21 @@
+﻿  Source.c
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(29,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(30,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(35,20): warning C4133: '=': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(36,22): warning C4133: '=': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(45,42): warning C4133: 'function': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(45,46): warning C4133: '=': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(51,45): warning C4133: 'function': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(51,49): warning C4133: '=': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(65,22): warning C4133: 'function': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(66,23): warning C4133: 'function': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(74,21): warning C4133: 'function': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(76,22): warning C4133: 'function': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(84,23): warning C4133: 'function': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(85,24): warning C4133: 'function': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(94,1): warning C4133: 'initializing': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(95,1): warning C4133: 'initializing': incompatible types - from 'nodarb *' to 'nodarb *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(118,13): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned char *'
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(118,13): message : consider using '%hhd' in the format string
+C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\Source.c(37): warning C4716: 'creare': must return a value
+  BiletArboreBinaeCautare.vcxproj -> C:\Users\J1\Desktop\SDD SEMINARII\BiletArboreBinaeCautare\x64\Debug\BiletArboreBinaeCautare.exe

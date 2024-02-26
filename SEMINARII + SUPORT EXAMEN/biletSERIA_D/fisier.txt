@@ -1,0 +1,5 @@
+4
+1 Erasmus Cristi 200 20500
+2 SiSC Bogdan 100 4000
+3 Proedus Bianca 2000 10000
+4 Saga Vlad 1000 50000
