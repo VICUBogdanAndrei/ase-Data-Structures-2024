@@ -1,0 +1,8 @@
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR1_1062\bin\Debug\SEMINAR1_1062.exe.config
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR1_1062\bin\Debug\SEMINAR1_1062.exe
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR1_1062\bin\Debug\SEMINAR1_1062.pdb
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR1_1062\obj\Debug\SEMINAR1_1062.csproj.AssemblyReference.cache
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR1_1062\obj\Debug\SEMINAR1_1062.csproj.SuggestedBindingRedirects.cache
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR1_1062\obj\Debug\SEMINAR1_1062.csproj.CoreCompileInputs.cache
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR1_1062\obj\Debug\SEMINAR1_1062.exe
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR1_1062\obj\Debug\SEMINAR1_1062.pdb

@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR2\Source.c(29,40): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR2\Source.c(30,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR2\Source.c(43,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR2\Source.c(44,19): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR2\Source.c(60,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR2\Source.c(70,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR2\Source.c(92,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+  SEMINAR2.vcxproj -> C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR2\x64\Debug\SEMINAR2.exe
