@@ -1,0 +1,12 @@
+﻿  Source.c
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(43,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(44,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(51,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(73,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(88,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(125,23): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(143,24): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(164,20): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(173,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\Source.c(155): warning C4715: 'get': not all control paths return a value
+  SDD_SEMINAR4.vcxproj -> C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR4\x64\Debug\SDD_SEMINAR4.exe
