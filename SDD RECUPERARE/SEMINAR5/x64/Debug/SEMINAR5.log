@@ -1,0 +1,3 @@
+﻿lista_lista.obj : error LNK2019: unresolved external symbol fcsnf referenced in function main
+lista_lista.obj : error LNK2019: unresolved external symbol dezalocare referenced in function main
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR5\x64\Debug\SEMINAR5.exe : fatal error LNK1120: 2 unresolved externals
