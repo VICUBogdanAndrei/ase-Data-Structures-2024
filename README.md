@@ -1,8 +1,11 @@
 # ase-Data-Structures-2024
  
 ## -->> DIAGRAME STRUCTURI: scheme logice pentru fiecare strctura
-          1. LISTA SIMPLA
-          2. LISTA DUBLA
+          ### DIAGRAMA 1: 
+                LISTA SIMPLA + LISTA DUBLA INLANTUITA
+          ### DIAGRAMA 2:
+                STIVA SI COADA 
+
 ## -->> SDD RECUPERARE: seminariile din acest an de la grupa 1061, complete si care ruleaza
           1. SEMINAR 1 - Recapitulare pointeri -> vector/matrice, alocare, dezalocare 
           2. SEMINAR 2 - Lista simpla inlantuita -> parcurgere + copiere in vector 
