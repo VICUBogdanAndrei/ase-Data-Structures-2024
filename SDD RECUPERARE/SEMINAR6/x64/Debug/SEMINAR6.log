@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR6\Source.c(67,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR6\Source.c(86,47): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR6\Source.c(87,11): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR6\Source.c(114,63): warning C4047: '=': 'masina **' differs in levels of indirection from 'masina *'
+  SEMINAR6.vcxproj -> C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR6\x64\Debug\SEMINAR6.exe
