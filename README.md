@@ -1,9 +1,9 @@
 # ase-Data-Structures-2024
  
 ## -->> DIAGRAME STRUCTURI: scheme logice pentru fiecare strctura
-          ### DIAGRAMA 1: 
+   ### DIAGRAMA 1: 
                 LISTA SIMPLA + LISTA DUBLA INLANTUITA
-          ### DIAGRAMA 2:
+   ### DIAGRAMA 2:
                 STIVA SI COADA 
 
 ## -->> SDD RECUPERARE: seminariile din acest an de la grupa 1061, complete si care ruleaza
