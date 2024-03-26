@@ -11,8 +11,8 @@
           2. SEMINAR 2 - Lista simpla inlantuita -> parcurgere + copiere in vector 
           3. SEMINAR 3 - Lista dubla inlantuita -> parcurgere stanga+dreapta, copiere in vector, stergere elemente dupa criteriu dat
           4. SEMINAR 4 - Stiva (push, pop) si Coada (put, get) -> pacurgere, copiere in vector, cipiere dupa un anumit criteriu, functiile de adaugare + afisare (inclus dezalocare)
-          5. SEMINAR 5 - 
-          6. SEMINAR 6 - 
+          5. SEMINAR 5 - Lista de lista + Tabela de dispersie ( Hash Map ) - meotoda Chaining
+          6. SEMINAR 6 - Tabela de dispersie ( Hash Map ) - Linear Probing -> stergere element, copiere in vector dupa criteriu dat 
           7. SEMINAR 7 -
           8. SEMINAR 8 - 
           9. SEMINAR 9 - 
