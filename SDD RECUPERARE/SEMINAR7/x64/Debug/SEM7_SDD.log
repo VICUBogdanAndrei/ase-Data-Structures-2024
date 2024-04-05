@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEM7_SDD\Source.c(104,45): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEM7_SDD\Source.c(105,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  SEM7_SDD.vcxproj -> C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEM7_SDD\x64\Debug\SEM7_SDD.exe
