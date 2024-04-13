@@ -1,0 +1,6 @@
+5
+10 Maria 9.95
+23 Bogdan 8.89
+11 Mihaela 4.99
+19 Cristi 9.23
+27 Vlad 2.67
