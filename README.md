@@ -13,8 +13,8 @@
           4. SEMINAR 4 - Stiva (push, pop) si Coada (put, get) -> pacurgere, copiere in vector, cipiere dupa un anumit criteriu, functiile de adaugare + afisare (inclus dezalocare)
           5. SEMINAR 5 - Lista de lista + Tabela de dispersie ( Hash Map ) - meotoda Chaining
           6. SEMINAR 6 - Tabela de dispersie ( Hash Map ) - Linear Probing -> stergere element, copiere in vector dupa criteriu dat 
-          7. SEMINAR 7 -
-          8. SEMINAR 8 - 
+          7. SEMINAR 7 - Structura HEAP
+          8. SEMINAR 8 - TEST SDD GRUPA 1061
           9. SEMINAR 9 - 
           10. SEMINAR 10 -
           11. SEMINAR 11 - 
