@@ -1,0 +1,7 @@
+- definirea strcuturii de tip stiva
+- functiile push si pop
+- afisare
+- conversie vector + dezalocare in acelasi timp => nu mai trebuie dezalocare in main la final
+- conversie in lista simpla liniara in 2 moduri
+	- inserare la final a noilor noduri
+	- inserare la inceput a noilor noduri
