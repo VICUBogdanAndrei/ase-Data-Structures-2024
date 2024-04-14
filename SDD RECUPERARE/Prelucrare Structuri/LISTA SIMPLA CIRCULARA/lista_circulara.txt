@@ -1,0 +1,6 @@
+5
+2 Bogdan C 9.78 CNI
+10 Cecilia A 8.76 CNPR
+89 Mihaela I 9.99 ASE
+14 Vlad S 6.45 CNSH
+20 Cristi G 9.87 MRAI
