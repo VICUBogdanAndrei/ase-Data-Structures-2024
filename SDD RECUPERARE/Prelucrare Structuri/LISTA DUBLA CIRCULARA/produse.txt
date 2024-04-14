@@ -1,0 +1,6 @@
+5
+11 Paine 20 4.5 VelPitar
+25 Lapte 35 9.90 Napolact
+19 Cascaval 38.9 35.89 Napolact 
+17 Pateu 50 5.5 ScandiaSibiu
+23 Cafea 130 23.5 Nespresso
