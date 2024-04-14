@@ -1,0 +1,6 @@
+Test Nr. 2
+(1p) oficiu
+(2p) 1. Sa se construiasca si sa se afiseze o lista dubla liniara cu n noduri avand informatiile utile de tip vagon de tren. Informatiile aferente nodurilor sunt citite dintr-un fisier text, iar fiecare vagon ar trebui identificat prin numar vagon(int), numar de locuri(int), numar de pasageri(int), compania de transport(char*),  precum si alte campuri la alegere.
+(2p) 2. Sa se scrie functia pentru interschimbarea numarului de pasageri din vagoanele aferente nodurilor de pe pozitiile k - 1 si k din lista dubla.
+(3p) 3. Sa se scrie functia pentru a verifica daca lista dubla este simetrica, comparand nodurile doar dupa criteriul numar pasageri din fiecare vagon. Sa se salveze lista dubla intr un vector prin traversare in ordine inversa (de la ultimul element catre primul).
+(2p) 4. Sa se dezaloce toate structurile de date dinamice construite. Operatia de dezalocare va fi insotita de afisarea continutului structurilor in fisier text, inainte de dezalocarea memoriei heap.

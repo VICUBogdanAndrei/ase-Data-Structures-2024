@@ -1,0 +1,21 @@
+
+
+---- LISTA DUBLA ----
+
+
+Nr Vagon = 3, Nr locuri = 250, Nr pasageri = 179, Comapanie = CFR, Tip Tren = IR
+Nr Vagon = 6, Nr locuri = 180, Nr pasageri = 50, Comapanie = CFR, Tip Tren = R
+Nr Vagon = 8, Nr locuri = 100, Nr pasageri = 50, Comapanie = CFR, Tip Tren = IC
+Nr Vagon = 6, Nr locuri = 180, Nr pasageri = 179, Comapanie = CFR, Tip Tren = R
+Nr Vagon = 2, Nr locuri = 200, Nr pasageri = 167, Comapanie = CFR, Tip Tren = R
+Nr Vagon = 1, Nr locuri = 170, Nr pasageri = 167, Comapanie = CFR, Tip Tren = IC
+
+---- VECTOR ----
+
+
+Nr Vagon = 1, Nr locuri = 170, Nr pasageri = 167, Comapanie = CFR, Tip Tren = IC
+Nr Vagon = 2, Nr locuri = 200, Nr pasageri = 167, Comapanie = CFR, Tip Tren = R
+Nr Vagon = 6, Nr locuri = 180, Nr pasageri = 179, Comapanie = CFR, Tip Tren = R
+Nr Vagon = 8, Nr locuri = 100, Nr pasageri = 50, Comapanie = CFR, Tip Tren = IC
+Nr Vagon = 6, Nr locuri = 180, Nr pasageri = 50, Comapanie = CFR, Tip Tren = R
+Nr Vagon = 3, Nr locuri = 250, Nr pasageri = 179, Comapanie = CFR, Tip Tren = IR
