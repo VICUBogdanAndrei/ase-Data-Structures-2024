@@ -21,5 +21,6 @@
           12. SEMINAR 12 - 
           13. SEMINAR 13 - 
           14. SEMINAR 14 -
+## -->> SDD RECUPERARE/Prelucrare Structuri: coduri extra pentru dieferite posibile subiecte la test/examen; grupate dupa tipul strcuturii
 ## -->> SDD2023-main: support curs + seminar din anul 2023
 ## -->> SEMINARII + SUPORT EXAMEN: exemple de rezolvari pentru diferite structuri 
