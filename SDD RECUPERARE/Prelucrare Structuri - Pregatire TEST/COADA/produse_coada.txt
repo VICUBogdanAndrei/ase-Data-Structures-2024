@@ -1,0 +1,6 @@
+5
+17 Paine 5.5
+19 Lapte 9.99
+12 Pateu 4.50
+14 Apa 3.99
+10 Drojdie 1.98
