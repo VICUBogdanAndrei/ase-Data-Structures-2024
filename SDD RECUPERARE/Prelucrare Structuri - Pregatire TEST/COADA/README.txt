@@ -1,3 +1,3 @@
-- crearea strcuturii de tip coada
+- crearea structurii de tip coada
 - crearea unei structuri de tip stiva
 - translatarea din coada in stiva
