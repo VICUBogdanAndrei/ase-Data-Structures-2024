@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR10\Source.c(30,13): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR10\Source.c(43,9): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR10\Source.c(61,18): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR10\Source.c(72,9): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR10\Source.c(82,1): warning C4715: 'get': not all control paths return a value
+  SDD_SEMINAR10.vcxproj -> C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR10\x64\Debug\SDD_SEMINAR10.exe
