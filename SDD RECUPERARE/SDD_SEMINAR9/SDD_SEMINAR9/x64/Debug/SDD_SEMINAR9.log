@@ -1,0 +1,25 @@
+﻿  Source.c
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(30,34): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(31,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(34,14): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(35,15): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(46,33): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(46,16): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(52,35): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(52,18): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(77,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(78,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(89,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(98,10): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(111,30): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(112,30): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(122,16): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(123,16): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(148,17): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(149,17): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(164,26): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(165,26): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(177,24): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(178,24): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\Source.c(232,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  SDD_SEMINAR9.vcxproj -> C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR9\x64\Debug\SDD_SEMINAR9.exe
