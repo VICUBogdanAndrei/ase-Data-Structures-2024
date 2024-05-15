@@ -15,9 +15,9 @@
           6. SEMINAR 6 - Tabela de dispersie ( Hash Map ) - Linear Probing -> stergere element, copiere in vector dupa criteriu dat 
           7. SEMINAR 7 - Structura HEAP
           8. SEMINAR 8 - TEST SDD GRUPA 1061
-          9. SEMINAR 9 - 
-          10. SEMINAR 10 -
-          11. SEMINAR 11 - 
+          9. SEMINAR 9 - TEST AN SUPLIMENTAR - lista dubla -> lista de liste, hashtable -> lista de liste
+          10. SEMINAR 10 - 
+          11. SEMINAR 11 - Grafuri neorientate - structura, parcurgere latime/adancime, tipuri de alte structuri utilizate, memorarea legaturilor in matricea de adiacenta
           12. SEMINAR 12 - 
           13. SEMINAR 13 - 
           14. SEMINAR 14 -
