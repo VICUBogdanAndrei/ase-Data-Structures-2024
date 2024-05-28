@@ -1,0 +1,34 @@
+﻿  Source.c
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(12,21): warning C4091: 'typedef ': ignored on left of 'nodLP' when no variable is declared
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(30,38): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(31,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(40,9): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(41,14): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(50,12): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(58,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(59,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(68,8): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(80,42): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(80,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(81,40): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(81,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(94,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(92,10): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(104,20): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(105,8): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(114,10): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(127,21): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(125,10): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(150,13): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(163,9): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(196,10): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(187,11): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(190,12): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(220,18): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(231,9): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(254,41): warning C4020: 'get': too many actual parameters
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(267,10): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(258,11): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(261,12): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\Source.c(240,1): warning C4715: 'get': not all control paths return a value
+  SDD_SEMINAR11.vcxproj -> C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SDD_SEMINAR11\x64\Debug\SDD_SEMINAR11.exe

@@ -1,0 +1,39 @@
+﻿  Source.c
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(25,40): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(26,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(36,13): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(37,13): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(43,21): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(44,9): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(45,14): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(46,13): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(48,18): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(49,13): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(58,20): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(62,8): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(71,20): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(75,8): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(85,20): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(87,10): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(101,20): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(103,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(105,8): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(114,20): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(118,8): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(126,11): warning C4098: 'stergereNod': 'void' function returning a value
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(131,8): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(139,11): warning C4098: 'stergereNod': 'void' function returning a value
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(144,10): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(151,11): warning C4098: 'stergereNod': 'void' function returning a value
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(157,17): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(158,16): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(164,10): warning C4098: 'stergereNod': 'void' function returning a value
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(154,9): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(155,9): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(172,20): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(177,9): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(181,9): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(187,8): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(195,20): warning C4133: '!=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(201,92): error C2143: syntax error: missing ')' before ';'
+C:\Users\J1\OneDrive\Desktop\SDD RECUPERARE\SEMINAR12SDD\Source.c(241,38): warning C4305: 'function': truncation from 'double' to 'float'
