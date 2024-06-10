@@ -1,0 +1,9 @@
+8
+5 Sanatate Contractant1 12 100000.0 75.0
+3 Educational Contractant2 24 200000.0 80.0
+8 Sanatate Contractant3 6 50000.0 50.0
+2 Constructii Contractant4 18 150000.0 60.0
+10 IT Contractant5 36 300000.0 90.0
+1 Mediu Contractant6 48 400000.0 95.0
+4 Social Contractant7 9 75000.0 55.0
+7 Cultural Contractant8 21 175000.0 

@@ -1,0 +1,8 @@
+7
+45 Bogdan 8.99
+23 Cecilia 5.90
+89 Vlad 7.87
+67 Cristi 9.87
+43 Oana 6.87
+12 Mihnea 8.34
+78 Alexandra 9.34

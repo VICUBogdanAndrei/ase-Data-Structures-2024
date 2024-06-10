@@ -1,0 +1,9 @@
+8
+123456 Ion Ionescu internat 5 90.0
+234567 Maria Pop spitalizat 7 50.0
+345678 Victor Mare externat 10 75.5
+456789 Elena Pitu internat 2 60.0
+567890 Dan Pop spitalizat 9 20.0
+678901 Paula Dascal externat 9 80.0
+789010 Ioana Pop internat 4 85.5
+890123 Andrei Costea spitalizat 6 55.0

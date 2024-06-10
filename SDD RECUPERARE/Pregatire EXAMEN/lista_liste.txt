@@ -1,0 +1,9 @@
+8
+10/02/2024 Bogdan 3.5 Extragere 500
+12/02/2024 Cecilia 2.0 Plomba 250
+10/02/2024 Mihaela 1.0 Control 200
+17/03/2024 Vlad 4.5 Extragere 1200
+12/02/2024 Cristi 3.5 Implant 1500
+15/05/2024 Bogdan 1.5 Periaj 150
+02/04/2024 Catalin 4.6 Extragere 1200
+15/05/2024 Stefan 2.3 Plomba 400
